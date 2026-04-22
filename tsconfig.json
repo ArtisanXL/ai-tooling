@@ -1,0 +1,14 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/shared" },
+    { "path": "./packages/db" },
+    { "path": "./packages/task-system" },
+    { "path": "./packages/git-manager" },
+    { "path": "./packages/ai-core" },
+    { "path": "./packages/ai-drivers" },
+    { "path": "./packages/prompt-agent" },
+    { "path": "./packages/scheduler" },
+    { "path": "./apps/cli" }
+  ]
+}
